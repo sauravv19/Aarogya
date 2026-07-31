@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mykare-agent-production.up.railway.app">
-    <img src="https://img.shields.io/badge/Railway-Live%20Deployment-green?logo=railway&logoColor=white&style=for-the-badge" />
-  </a>
+
   <img src="https://img.shields.io/badge/Vercel-Frontend-black?logo=vercel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js&logoColor=white&style=for-the-badge" />
