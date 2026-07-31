@@ -1,0 +1,12 @@
+livekit-agents~=1.4
+livekit-plugins-silero~=1.4
+livekit-plugins-deepgram~=1.4
+livekit-plugins-cartesia~=1.4
+livekit-plugins-openai~=1.4
+livekit-plugins-turn-detector~=1.4
+livekit-plugins-bey~=1.0
+python-dotenv~=1.1
+sqlalchemy~=2.0
+aiosqlite~=0.21
+pydantic~=2.11
+aiohttp~=3.11

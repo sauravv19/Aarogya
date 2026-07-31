@@ -1,0 +1,8 @@
+[build]
+builder = "nixpacks"
+buildCommand = ""
+
+[deploy]
+startCommand = "python agent.py start"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
