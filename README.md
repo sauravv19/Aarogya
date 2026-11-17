@@ -234,6 +234,16 @@ mykare/
 
 ---
 
-## License
+## Why Aarogya Stands Out
 
-MIT © Mykare Health
+- **Conversational Intelligence** — ChatGPT-powered LLMs for context-aware AI interactions.
+- **Real-Time Communication** — Bidirectional, low-latency audio-video interaction using WebRTC.
+- **AI-Powered Digital Avatar** — LivePortrait integration for facial animation and real-time lip synchronization.
+- **Multimodal Integration** — Combines conversational AI, voice interaction, facial animation and synchronized audio-visual responses.
+- **Healthcare Automation** — Voice-based appointment booking, modification and cancellation through intelligent AI interactions.
+
+---
+
+## 👤 Author
+
+**Saurav Kumar**
