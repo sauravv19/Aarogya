@@ -236,9 +236,9 @@ mykare/
 
 ## Why Aarogya Stands Out
 
-- **Conversational Intelligence** — ChatGPT-powered LLMs for context-aware AI interactions.
+- **Conversational Intelligence** — Meta Llama 3.1 70B via OpenRouter for context-aware AI interactions.
 - **Real-Time Communication** — Bidirectional, low-latency audio-video interaction using WebRTC.
-- **AI-Powered Digital Avatar** — LivePortrait integration for facial animation and real-time lip synchronization.
+- **AI-Powered Digital Avatar** — Beyond Presence integration with a CSS fallback for a photorealistic, interactive AI avatar experience.
 - **Multimodal Integration** — Combines conversational AI, voice interaction, facial animation and synchronized audio-visual responses.
 - **Healthcare Automation** — Voice-based appointment booking, modification and cancellation through intelligent AI interactions.
 
